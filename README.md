@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Assignment_2_real_estate
 =======
 # Getting Started with Create React App
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 3c9e50c (Initial commit - Real Estate Price Prediction App)
+=======
+# real-estate-price-prediction
+>>>>>>> 50f9f7715e0c45559f03497dc81fdeb3d92e1821
